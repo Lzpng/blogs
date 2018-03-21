@@ -1,0 +1,7 @@
+[submodule "themes/jane"]
+	path = themes/jane
+	url = git@github.com:keysaim/hugo-theme-jane.git
+[submodule "public"]
+	path = public
+	url = git@github.com:keysaim/keysaim.github.io.git
+	branch = master
