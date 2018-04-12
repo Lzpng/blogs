@@ -8,8 +8,6 @@ fi
 msg="$1"
 
 ./io.sh "$msg"
-echo $?
-exit 1
 if [ $? -ne 0 ]; then
     echo "Push to github.io failed"
     exit 1
