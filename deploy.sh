@@ -6,6 +6,16 @@ if [ $# -lt  1 ]; then
 fi
 
 msg="$1"
+
+./io.sh "$msg"
+echo $?
+exit 1
+if [ $? -ne 0 ]; then
+    echo "Push to github.io failed"
+    exit 1
+fi
+
+git add public
 git commit -m "$msg"
 if [ $? -ne 0 ]; then
     echo "Commit failed"
@@ -15,6 +25,3 @@ git push origin master
 if [ $? -ne 0 ]; then
     echo "Push failed"
 fi
-
-./io.sh "$msg"
-

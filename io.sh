@@ -14,8 +14,8 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd public
 set -e
-git pull
 git checkout master
+git fetch
 # Add changes to git.
 git add .
 
