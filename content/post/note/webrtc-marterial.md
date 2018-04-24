@@ -15,6 +15,10 @@ tags:
 * [Web Real-Time Communication（WebRTC）技术概述](http://www.miit.gov.cn/n1146312/n1146909/n1146991/n1648534/c3489337/content.html)
 * [WebRTC 是如何进行通信的，WebRCT 的三种网络结构](https://blog.wilddog.com/?p=2196)
 
+### 互动直播
+
+* [互动直播的技术细节和解决方案实践经验谈](https://www.cnblogs.com/zhangxiaoliu/archive/2017/03/20/6586575.html)
+
 ## 流程分析
 ### 信令流程
 
