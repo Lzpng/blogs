@@ -27,6 +27,32 @@ References:
 # PAAS
 
 * [Kubernetes](https://github.com/kubernetes/kubernetes)
+* [pouch](https://github.com/alibaba/pouch), from Alibaba
+
+## 有待观察的
+* [rainbond](https://github.com/goodrain/rainbond), 国人开发
+
+# 大数据&AI
+
+* [Spark](https://github.com/apache/spark)
+* [Ray](https://github.com/ray-project/ray), WIP
+
+# Monitor
+
+* ELK
+
+# Alarms
+
+* [Prometheus](https://github.com/prometheus/prometheus)
+
+References:
+
+* [这里有7种主流案例，告诉你调度器架构设计通用法则](https://mp.weixin.qq.com/s/MJwJTKXX41Dy-stlVElBDQ)
+* [史上最全Redis高可用技术解决方案大全](https://mp.weixin.qq.com/s/BoLsVKYyu8yRXZbxd1uuQw)
+
+# Load Balancer
+
+* [openresty](https://github.com/openresty/openresty), 国人开发，Nginx Based
 
 # 时序数据库
 
@@ -34,3 +60,15 @@ References:
 
 References:
 * [时序数据库技术体系 – InfluxDB TSM存储引擎之数据写入](https://mp.weixin.qq.com/s/8oxknZqRbeLi4iUlC7lQtg)
+
+
+# Benchmark Tools
+
+## DNS performance
+
+* [dnsperfbench](https://github.com/turbobytes/dnsperfbench)
+
+# 室内定位
+
+* [Find3](https://github.com/schollz/find3), High-precision indoor positioning framework
+

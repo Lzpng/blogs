@@ -8,6 +8,23 @@ tags:
     - 资料
 ---
 
+# 介绍
+
+## 公有链
+
+* 以太坊
+
+## 私有链
+
+* R3 Corda
+
+## 联盟链
+
+* Hyperledger Fabric
+
+References:
+* [IBM技术专家：Hyperleger Fabric 架构与部署实例解析](http://www.infoq.com/cn/articles/ibm-hyperleger-fabric-achitecture-deployment)
+
 # Guide
 
 * [以太坊官方文档中文版](https://pan.baidu.com/s/1ktODJKLMBmkOsi8MPrpIJA)
