@@ -54,6 +54,13 @@ References:
 
 * [openresty](https://github.com/openresty/openresty), 国人开发，Nginx Based
 
+# NoSQL
+
+## 列存储
+
+* [Scylla](https://github.com/scylladb/scylla), in C++
+* [Cassandra](https://github.com/apache/cassandra), in Java
+
 # 时序数据库
 
 * [InfluxDB](https://github.com/influxdata/influxdb)
@@ -72,3 +79,6 @@ References:
 
 * [Find3](https://github.com/schollz/find3), High-precision indoor positioning framework
 
+# 异步框架
+
+* [Seastar](https://github.com/scylladb/seastar), in C++
